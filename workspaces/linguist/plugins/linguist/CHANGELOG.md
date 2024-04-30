@@ -1,5 +1,13 @@
 # @backstage-community/plugin-linguist
 
+## 0.1.21
+
+### Patch Changes
+
+- 295c71a: Updated dependencies
+- Updated dependencies [295c71a]
+  - @backstage-community/plugin-linguist-common@0.1.4
+
 ## 0.1.20
 
 ### Patch Changes
