@@ -1,5 +1,14 @@
 # @backstage-community/plugin-azure-devops-backend
 
+## 0.6.6
+
+### Patch Changes
+
+- 82b799b: Fixed a bug where proper error was not thrown when the repository was not found.
+- 0032b05: Updated dependencies
+- Updated dependencies [0032b05]
+  - @backstage-community/plugin-azure-devops-common@0.4.3
+
 ## 0.6.5
 
 ### Patch Changes

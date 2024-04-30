@@ -1,5 +1,13 @@
 # @backstage-community/plugin-azure-devops
 
+## 0.4.5
+
+### Patch Changes
+
+- 0032b05: Updated dependencies
+- Updated dependencies [0032b05]
+  - @backstage-community/plugin-azure-devops-common@0.4.3
+
 ## 0.4.4
 
 ### Patch Changes
